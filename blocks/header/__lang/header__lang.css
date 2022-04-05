@@ -9,11 +9,6 @@
   font-weight: normal;
 }
 
-.header__lang:first-child {
-  margin-right: 18px;
-  text-decoration-line: underline;
-}
-
 @media screen and (max-width: 767px) {
   .header__lang {
     width: 20px;
